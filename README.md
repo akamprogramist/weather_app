@@ -1,3 +1,3 @@
 # Weather App
 
-learning about api
+learning about API
