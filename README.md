@@ -1,1 +1,3 @@
-# Weather_app
+# Weather App
+
+learning about api
